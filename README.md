@@ -261,83 +261,83 @@
 
 启动的初始界面如下：
 
-![Snipaste_2020-04-03_18-36-57](img\Snipaste_2020-04-03_18-36-57.png)
+![Snipaste_2020-04-03_18-36-57](img/Snipaste_2020-04-03_18-36-57.png)
 
 默认是10以内的数字，20个题目，两个数字相加，点击`Generate Test`按钮，弹出题目记事本：
 
-![Snipaste_2020-04-03_18-38-37](img\Snipaste_2020-04-03_18-38-37.png)
+![Snipaste_2020-04-03_18-38-37](img/Snipaste_2020-04-03_18-38-37.png)
 
 点击Show Answer按钮，则弹出计算题目答案的记事本：
 
-![Snipaste_2020-04-03_18-39-06](img\Snipaste_2020-04-03_18-39-06.png)
+![Snipaste_2020-04-03_18-39-06](img/Snipaste_2020-04-03_18-39-06.png)
 
 将`Difficulty`改为100以内的数字：
 
-![Snipaste_2020-04-03_18-39-35](\img\Snipaste_2020-04-03_18-39-35.png)
+![Snipaste_2020-04-03_18-39-35](img/Snipaste_2020-04-03_18-39-35.png)
 
 将`Quantity`改为100道题目：
 
-![Snipaste_2020-04-03_18-39-43](\img\Snipaste_2020-04-03_18-39-43.png)
+![Snipaste_2020-04-03_18-39-43](img/Snipaste_2020-04-03_18-39-43.png)
 
 将`Numbers`改为4个数字进行运算：
 
-![Snipaste_2020-04-03_18-39-53](\img\Snipaste_2020-04-03_18-39-53.png)
+![Snipaste_2020-04-03_18-39-53](img/Snipaste_2020-04-03_18-39-53.png)
 
 启用加减乘除四则运算：
 
-![Snipaste_2020-04-03_18-40-03](\img\Snipaste_2020-04-03_18-40-03.png)
+![Snipaste_2020-04-03_18-40-03](img/Snipaste_2020-04-03_18-40-03.png)
 
 点击`Generate Test`按钮，弹出计算题的记事本：
 
-![Snipaste_2020-04-03_18-40-18](\img\Snipaste_2020-04-03_18-40-18.png)
+![Snipaste_2020-04-03_18-40-18](img/Snipaste_2020-04-03_18-40-18.png)
 
 点击`Show Answer`按钮，弹出计算题答案的记事本：
 
-![Snipaste_2020-04-03_18-40-32](\img\Snipaste_2020-04-03_18-40-32.png)
+![Snipaste_2020-04-03_18-40-32](img/Snipaste_2020-04-03_18-40-32.png)
 
 点击`Chinese`标签，进行古诗题目操作：
 
-![Snipaste_2020-04-03_18-40-47](\img\Snipaste_2020-04-03_18-40-47.png)
+![Snipaste_2020-04-03_18-40-47](img/Snipaste_2020-04-03_18-40-47.png)
 
 初始设置是给出后句，填上句，共四个题目，点击`GenerateTest`按钮，弹出题目记事本：
 
-![Snipaste_2020-04-03_18-41-07](\img\Snipaste_2020-04-03_18-41-07.png)
+![Snipaste_2020-04-03_18-41-07](img/Snipaste_2020-04-03_18-41-07.png)
 
 点击`ShowAnswer`按钮，弹出题目答案记事本：
 
-![Snipaste_2020-04-03_18-41-25](\img\Snipaste_2020-04-03_18-41-25.png)
+![Snipaste_2020-04-03_18-41-25](img/Snipaste_2020-04-03_18-41-25.png)
 
 选择`Difficulty`为`right`，提示上句，填下句：
 
-![Snipaste_2020-04-03_18-41-48](\img\Snipaste_2020-04-03_18-41-48.png)
+![Snipaste_2020-04-03_18-41-48](img/Snipaste_2020-04-03_18-41-48.png)
 
 选择`Quantity`为30，题量为30题：
 
-![Snipaste_2020-04-03_18-42-00](\img\Snipaste_2020-04-03_18-42-00.png)
+![Snipaste_2020-04-03_18-42-00](img/Snipaste_2020-04-03_18-42-00.png)
 
 点击`GenerateTest`按钮，弹出题目记事本：
 
-![Snipaste_2020-04-03_18-42-11](\img\Snipaste_2020-04-03_18-42-11.png)
+![Snipaste_2020-04-03_18-42-11](img/Snipaste_2020-04-03_18-42-11.png)
 
 点击`ShowAnswer`按钮，弹出题目答案记事本：
 
-![Snipaste_2020-04-03_18-42-29](\img\Snipaste_2020-04-03_18-42-29.png)
+![Snipaste_2020-04-03_18-42-29](img/Snipaste_2020-04-03_18-42-29.png)
 
 选择`Difficulty`为mix，随机显示前句写后句或显示后句写前句：
 
-![Snipaste_2020-04-03_18-42-39](\img\Snipaste_2020-04-03_18-42-39.png)
+![Snipaste_2020-04-03_18-42-39](img/Snipaste_2020-04-03_18-42-39.png)
 
 选择`Quantity`为50，题量为50题：
 
-![Snipaste_2020-04-03_18-42-46](\img\Snipaste_2020-04-03_18-42-46.png)
+![Snipaste_2020-04-03_18-42-46](img/Snipaste_2020-04-03_18-42-46.png)
 
 点击`GenerateTest`按钮，弹出题目记事本：
 
-![Snipaste_2020-04-03_18-42-59](\img\Snipaste_2020-04-03_18-42-59.png)
+![Snipaste_2020-04-03_18-42-59](img/Snipaste_2020-04-03_18-42-59.png)
 
 点击`ShowAnswer`按钮，弹出题目答案记事本：
 
-![Snipaste_2020-04-03_18-43-11](\img\Snipaste_2020-04-03_18-43-11.png)
+![Snipaste_2020-04-03_18-43-11](img/Snipaste_2020-04-03_18-43-11.png)
 
 ## 其它
 
